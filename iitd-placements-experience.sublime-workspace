@@ -1,0 +1,1021 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max_xor\tfunction"
+			],
+			[
+				"lar",
+				"largest_connected_component\tfunction"
+			],
+			[
+				"la",
+				"largest"
+			],
+			[
+				"Def",
+				"defaultdict\tclass"
+			],
+			[
+				"print",
+				"print_inorder"
+			],
+			[
+				"del",
+				"delim"
+			],
+			[
+				"num",
+				"numpunct\tnumpunct<typename _CharT>()"
+			],
+			[
+				"ans",
+				"ans_i"
+			],
+			[
+				"lengt",
+				"length_of_contig_0\tvector<int> length_of_contig_0"
+			],
+			[
+				"leng",
+				"length_of_contig_0"
+			],
+			[
+				"bit",
+				"bit_number"
+			],
+			[
+				"ma",
+				"max_set_bit"
+			],
+			[
+				"push",
+				"push_back\tvoid push_back(value_type &&__x)"
+			],
+			[
+				"bin",
+				"bind2nd\tbinder2nd<_Operation> bind2nd(const _Operation &__fn, const _Tp &__x)"
+			],
+			[
+				"sub",
+				"sub_cost2\tstatement"
+			],
+			[
+				"y",
+				"y_set\tstatement"
+			],
+			[
+				"x",
+				"x_set\tstatement"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"inde",
+				"independent_bits_engine\tindependent_bits_engine<typename _RandomNumberEngine, size_t __w, typename _UIntType>"
+			],
+			[
+				"cost",
+				"costs_i\tvector<int> costs_i"
+			],
+			[
+				"to",
+				"total_cost"
+			],
+			[
+				"new_",
+				"new_soi\tint new_soi"
+			],
+			[
+				"ne",
+				"nextafter\tfloat nextafter(float __x, float __y)"
+			],
+			[
+				"nu",
+				"num_bought_items"
+			],
+			[
+				"op",
+				"option\tstatement"
+			],
+			[
+				"mem",
+				"memoize\tfunction"
+			],
+			[
+				"sum",
+				"sum_uptill_now\tparam"
+			],
+			[
+				"st",
+				"strip\tfunction"
+			],
+			[
+				"di",
+				"dijsktra"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"fil",
+				"filter\tfunction"
+			],
+			[
+				"for",
+				"for\tfor … done"
+			],
+			[
+				"read",
+				"read_int\tunit -> int"
+			],
+			[
+				"int_of",
+				"int_of_string\tstring -> int"
+			],
+			[
+				"exc",
+				"Exception\tclass"
+			],
+			[
+				"ab",
+				"abs_pos"
+			],
+			[
+				"mak",
+				"make_moves\tfunction"
+			],
+			[
+				"pla",
+				"player"
+			],
+			[
+				"moval",
+				"movable_coins〔variable〕"
+			],
+			[
+				"update",
+				"updateStatusBar"
+			],
+			[
+				"updat",
+				"update_status"
+			],
+			[
+				"PY",
+				"PyQt5〔module〕"
+			],
+			[
+				"Lud",
+				"LudoView"
+			],
+			[
+				"get",
+				"getattr〔function〕"
+			],
+			[
+				"file",
+				"filesize"
+			],
+			[
+				"vpl",
+				"vpl_execution"
+			],
+			[
+				"user",
+				"user_pi"
+			],
+			[
+				"resp",
+				"responseText\t XMLHttpRequest"
+			],
+			[
+				"on",
+				"onreadystatechange〔variable〕"
+			],
+			[
+				"fram",
+				"frameCount〔variable〕"
+			],
+			[
+				"lo",
+				"lower〔variable〕"
+			],
+			[
+				"extract",
+				"extracthand〔function〕"
+			],
+			[
+				"ra",
+				"raw_input〔function〕"
+			],
+			[
+				"co",
+				"ccomp"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 304.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"push",
+				"git: push (force)"
+			],
+			[
+				"git pull",
+				"git: pull with rebase"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"ss c",
+				"Set Syntax: C++"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"gdb",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"SUBLI",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"GDB",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"easyt",
+				"EasyClangComplete: Open completion triggers location"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"Package Control: remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"MARDO PRE",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"linti",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"MARKDO",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"MARDO GFM",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"MARK",
+				"Set Syntax: Markdown"
+			],
+			[
+				"nums",
+				"Insert Nums"
+			],
+			[
+				"TERMINAL",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ss c++",
+				"Set Syntax: C++"
+			],
+			[
+				"num",
+				"Insert Nums"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"ss",
+				"Set Syntax: Python"
+			],
+			[
+				"ss magic",
+				"Set Syntax: MagicPython"
+			],
+			[
+				"ss pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"dle",
+				"File: Delete"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"convert ",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"sspyt",
+				"Set Syntax: Python"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"ss ocam",
+				"Set Syntax: OCaml"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"sort",
+				"CSV: Sort Column (Ascending)"
+			],
+			[
+				"csv",
+				"CSV: Format"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"autop",
+				"Preferences: AutoPep8 Settings – Default"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"wkhtml",
+				"wkhtmltopdf: Issues"
+			],
+			[
+				"wktml",
+				"wkhtmltopdf: Documentation (English)"
+			],
+			[
+				"wk",
+				"Preferences: wkhtmltopdf: Settings"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ss mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"packages",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"SA",
+				"Set Syntax: ANSI"
+			],
+			[
+				" SSA",
+				"Set Syntax: ANSI"
+			],
+			[
+				"SS ANS",
+				"Set Syntax: ANSI"
+			],
+			[
+				"SS ASN",
+				"Set Syntax: ANSI"
+			],
+			[
+				"SS",
+				"Set Syntax: ANSI"
+			],
+			[
+				"stat",
+				"git: status"
+			],
+			[
+				"SS ",
+				"Set Syntax: ANSI"
+			],
+			[
+				"Package Control: INT",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: REMO",
+				"Package Control: Remove Package"
+			],
+			[
+				"SSANS",
+				"Set Syntax: ANSI"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"git: status"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"status",
+				"git: status"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pakage Control:ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"python",
+				"Set Syntax: MagicPython"
+			],
+			[
+				"ss py",
+				"Set Syntax: MagicPython"
+			],
+			[
+				"git ",
+				"git: status"
+			],
+			[
+				"Package Control: di",
+				"Package Control: Disable Package"
+			],
+			[
+				"markdown pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ss gfm",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inta",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 605.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect(/home/hthuwal/.local/share/anaconda/run/LudoBot/anaconda.sock)",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect(/home/hthuwal/.local/share/anaconda/run/Ludo\\ Bot/anaconda.sock)",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect(/home/hthuwal/.local/share/anaconda/run/Ludo Bot/anaconda.sock)",
+			"rename youtube",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/hthuwal/dev/iitd-placements-experience"
+	],
+	"file_history":
+	[
+		"/home/hthuwal/dev/notes/notes.sublime-project",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/maximum-xor.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/maximum-xor.py",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/in.txt",
+		"/home/hthuwal/Competitive Programming/Programming/Mixed/cpp/trie-phone-list-using-trie.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/friend-cirle-queries.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/friend-circle-queries.py",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/minimum_time_required.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/triple_sum.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/pairs.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/swap-nodes-algo.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/candies.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/crossworld_puzzle.cpp",
+		"/home/hthuwal/dev/Scripts/mpv_scripts/autosub.lua",
+		"/home/hthuwal/Competitive Programming/Programming/Algos_Implementation/graphusingstl.cpp",
+		"/home/hthuwal/contacts.vcf",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/snakes-and-ladders-the-quickest-way-up.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/find-the-nearest-clone.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/shortest_reach_in_a_graph.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/connected_cells_in_grid.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/roads-and-libraries.cpp",
+		"/home/hthuwal/Downloads/Torrents/Naruto Shippuden/Season 19 Ep(394-413)/links.txt",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/abbreviation.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/max_sum_array.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/julia.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/number_of_ways.py",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/julia.py",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/number_of_ways.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/special_palindrome_again.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/bob-and-subarray.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/test.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/xor-queries.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/is-it-t-shaped.py",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/xor_queries.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/test.py",
+		"/home/hthuwal/dev/others/others",
+		"/home/hthuwal/Competitive Programming/Programming/CodeForces/in.txt",
+		"/home/hthuwal/Competitive Programming/Programming/CodeForces/csagheer_and_nubian_market.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/Mixed/cpp/intervalsandsubarrays.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/in.txt",
+		"/home/hthuwal/.config/sublime-text-3/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+		"/home/hthuwal/Competitive Programming/Programming/Competitive.sublime-project",
+		"/home/hthuwal/Competitive Programming/Programming/Interview_bit/csagheer_and_nubian_market.cpp",
+		"/home/hthuwal/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/hthuwal/Competitive Programming/Programming/Interview_bit/csagheer_and_nubian_market.py",
+		"/home/hthuwal/Competitive Programming/Programming/Interview_bit/sqrt.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/sqrt.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/test.py",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/balanced_forest.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/timetable.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/timetable.py",
+		"/home/hthuwal/Competitive Programming/Programming/test.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/HackerRank/hacker_rank_tree.md",
+		"/usr/share/applications/wps-office-et.desktop",
+		"/home/hthuwal/Competitive Programming/Programming/Mixed/Readme.md",
+		"/home/hthuwal/Competitive Programming/Programming/Algos_Implementation/Readme.md",
+		"/home/hthuwal/Competitive Programming/Programming/Mixed/cpp/reference.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/IO and speed comparaisons/run.sh",
+		"/home/hthuwal/Competitive Programming/Programming/IO and speed comparaisons/Readme.md",
+		"/home/hthuwal/Competitive Programming/Programming/IO and speed comparaisons/redirection_stdin_incpp.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/IO and speed comparaisons/using_fastio_forint.cpp",
+		"/home/hthuwal/bin/syncthing",
+		"/home/hthuwal/Desktop/test.py",
+		"/home/hthuwal/Competitive Programming/Programming/adafield.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/codesptb.cpp",
+		"/home/hthuwal/.local/share/geary/mcs172074@cse.iitd.ac.in/geary.ini",
+		"/home/hthuwal/.bashrc",
+		"/home/hthuwal/Desktop/InstructionsForTAs.txt",
+		"/home/hthuwal/.config/syncthing/config.xml",
+		"/home/hthuwal/Downloads/Torrents/Bright.2017.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/PSArips.com.txt",
+		"/home/hthuwal/dev/Scripts/Python Scripts/portcheck.py",
+		"/home/hthuwal/Competitive Programming/Programming/chopahoyrevisited.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/chopahoyrevisited.py",
+		"/home/hthuwal/Competitive Programming/Programming/beads.py",
+		"/home/hthuwal/Competitive Programming/Programming/musicalchairs.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/activities.py",
+		"/home/hthuwal/Competitive Programming/Programming/activities.cpp",
+		"/home/hthuwal/.config/mpv/scripts/stats.lua",
+		"/home/hthuwal/Downloads/graph",
+		"/home/hthuwal/bin/shrink-file-name",
+		"/home/hthuwal/Competitive Programming/Programming/adagame.py",
+		"/home/hthuwal/Competitive Programming/Programming/adagame.cpp",
+		"/home/hthuwal/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+		"/home/hthuwal/Competitive Programming/Programming/adahack.cpp",
+		"/home/hthuwal/Scripts/Python Scripts/Shrink File Names/remove_from_file_names.py",
+		"/home/hthuwal/Competitive Programming/Programming/adhack.py",
+		"/home/hthuwal/Competitive Programming/Programming/multq3.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/cam5.py",
+		"/home/hthuwal/Competitive Programming/Programming/cam5.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/out1.txt",
+		"/home/hthuwal/Competitive Programming/Programming/out.txt",
+		"/home/hthuwal/Competitive Programming/Programming/inversion.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/segmenttree2.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/segmenttree.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/.printhackerearth.cpp.swp",
+		"/home/hthuwal/Competitive Programming/Programming/tiling_a_grid_with_dominoes.py",
+		"/home/hthuwal/Competitive Programming/Programming/harish_and_his_rooks_puzzle.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/pg.txt",
+		"/home/hthuwal/Competitive Programming/Programming/exp.txt",
+		"/home/hthuwal/Competitive Programming/Programming/costofarray.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/triangles_everywhere.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/musicalchairs.py",
+		"/home/hthuwal/Competitive Programming/Programming/fenwick_or_binary_index_tree.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/multiplesof3.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/horriblequeries-segmenttreewithlazypropogation.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/digitdp_memo.py",
+		"/home/hthuwal/Competitive Programming/Programming/baby.py",
+		"/home/hthuwal/Competitive Programming/Programming/wachoviabank.py",
+		"/home/hthuwal/Competitive Programming/Programming/wachoivabank.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/highway.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/graphusingstl.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/size_context.sh",
+		"/home/hthuwal/Competitive Programming/Programming/vowels_and_consonants.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/size_contest.py",
+		"/home/hthuwal/Competitive Programming/Programming/size_contest.ml",
+		"/home/hthuwal/Competitive Programming/Programming/size_contest.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/set_size.sh",
+		"/home/hthuwal/Competitive Programming/Programming/cardgame.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/test.c",
+		"/home/hthuwal/Competitive Programming/Programming/cardgame.ml",
+		"/home/hthuwal/Competitive Programming/Programming/subst1.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/polynomialsign.cpp",
+		"/home/hthuwal/Competitive Programming/Programming/a.out",
+		"/home/hthuwal/Desktop/ghtorrent_dataset_tar.csv",
+		"/home/hthuwal/Downloads/factors.c",
+		"/home/hthuwal/Desktop/Ghtorrent/mysql-2017-09-01/commit_comments.csv",
+		"/home/hthuwal/Competitive Programming/Programming/atoms.ml",
+		"/home/hthuwal/Competitive Programming/Programming/atoms.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 130.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 132.0
+	},
+	"output.autopep8":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 133.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.merlin":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "",
+	"project": "iitd-placements-experience.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"candi",
+				"HackerRank/candies.cpp"
+			],
+			[
+				"in",
+				"HackerRank/in.txt"
+			],
+			[
+				"trie",
+				"Mixed/cpp/trie-phone-list-using-trie.cpp"
+			],
+			[
+				"graph",
+				"Algos_Implementation/graphusingstl.cpp"
+			],
+			[
+				"clone",
+				"HackerRank/find-the-nearest-clone.cpp"
+			],
+			[
+				"connec",
+				"HackerRank/connected_cells_in_grid.cpp"
+			],
+			[
+				"shortest",
+				"HackerRank/shortest_reach_in_a_graph.cpp"
+			],
+			[
+				"libra",
+				"HackerRank/roads-and-libraries.cpp"
+			],
+			[
+				"julia",
+				"HackerRank/julia.py"
+			],
+			[
+				"xor",
+				"HackerRank/xor_queries.cpp"
+			],
+			[
+				"in.txt",
+				"HackerRank/in.txt"
+			],
+			[
+				"int",
+				"Mixed/cpp/intervalsandsubarrays.cpp"
+			],
+			[
+				"csa",
+				"Interview_bit/csagheer_and_nubian_market.py"
+			],
+			[
+				"test",
+				"test.py"
+			],
+			[
+				"READ",
+				"Mixed/Readme.md"
+			],
+			[
+				"ada",
+				"adahack.cpp"
+			],
+			[
+				"invers",
+				"inversion.cpp"
+			],
+			[
+				"out",
+				"out.txt"
+			],
+			[
+				"out1",
+				"out1.txt"
+			],
+			[
+				"sege",
+				"segmenttree.cpp"
+			],
+			[
+				"segme",
+				"segmenttree2.cpp"
+			],
+			[
+				"pg.",
+				"pg.txt"
+			],
+			[
+				"ex",
+				"exp.txt"
+			],
+			[
+				"lazy",
+				"horriblequeries-segmenttreewithlazypropogation.cpp"
+			],
+			[
+				"fenw",
+				"fenwick_or_binary_index_tree.cpp"
+			],
+			[
+				"ou",
+				"out.txt"
+			],
+			[
+				"in.",
+				"in.txt"
+			],
+			[
+				"grap",
+				"graphusingstl.cpp"
+			],
+			[
+				"bi",
+				"fenwick_or_binary_index_tree.cpp"
+			],
+			[
+				"card",
+				"cardgame.ml"
+			],
+			[
+				"atom",
+				"atoms.cpp"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"ream",
+				"README.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/dev/notes/notes.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 64.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
