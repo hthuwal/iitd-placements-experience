@@ -30,7 +30,7 @@ Screenshots of Questions are present in the [coding-exam.pdf](coding-exam.pdf)
 
 - Choosing C++ to do the easy questions.
     + Needed to sort a list of pairs. Based on both pair.first and pair.second
-    + Didn't know how to do that in python. Therefore choose C++.
+    + Didn't know how to do that in python. Therefore chose C++.
 
 - C++'s syntax , annoying Hackerearth Platfrom => Couldn't debug the code even after ~40 minutes.
 
