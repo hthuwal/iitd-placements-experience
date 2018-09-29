@@ -36,7 +36,7 @@ Screenshots of Questions are present in the [coding-exam.pdf](coding-exam.pdf)
 
 ### What went right.
 
-- Decided to the dp question first. May not have been able to do it, If attempted it later.
+- Decided to do the dp question first. May not have been able to do it, If attempted it later.
 - After 40 minutes of debugging gave up on C++, and wrote the **K Frequency** code in python in 5 minutes (it worked).
 
 ### Takeaway
