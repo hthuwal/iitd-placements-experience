@@ -11,6 +11,7 @@ Place of Posting: Bangalore
     - CTC: 25LPA, Gross: 18LPA
     - Minimum CGPA: 8.5
 
+---
 
 ### Coding Round
 
