@@ -4,7 +4,9 @@
 - Place of Posting: Bangalore
 - CTC: 18.13 LPA (34.73 Total), Gross: 17 LPA
 
-## Coding Round
+---
+
+### Coding Round
 
 - Platform: HackerEarth
 - Duration: 1 hour
@@ -12,12 +14,12 @@
 
 Screenshots of Questions are present in the [coding-exam.pdf](coding-exam.pdf)
 
-## How I approached the exam.
+### How I approached the exam.
 
 - Read the **Scientifc Farmer** problem first, Realized its an easy dp problem (with a little trick). Did it in 15 minutes. - 50 marks
 - The Next "Easy Question" **K freqency** (20 marks) took 45 minutes -_-
 
-## What went worng.
+### What went worng.
 
 - **The Hackerearth Platform** !!
     + `Ctrl+C` and `Ctrl+V` were disabled.
@@ -32,11 +34,11 @@ Screenshots of Questions are present in the [coding-exam.pdf](coding-exam.pdf)
 
 - C++'s syntax , annoying Hackerearth Platfrom => Couldn't debug the code even after ~40 minutes.
 
-## What went right.
+### What went right.
 
 - Decided to the dp question first. May not have been able to do it, If attempted it later.
 - After 40 minutes of debugging gave up on C++, and wrote the **K Frequency** code in python in 5 minutes (it worked).
 
-## Takeaway
+### Takeaway
 
 - Use python wherever possible. :)
