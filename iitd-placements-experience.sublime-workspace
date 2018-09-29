@@ -223,6 +223,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "Readme.md",
+			"settings":
+			{
+				"buffer_size": 60,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -613,6 +622,8 @@
 	],
 	"file_history":
 	[
+		"/home/hthuwal/dev/iitd-placements-experience/Readme.md",
+		"/home/hthuwal/dev/iitd-placements-experience/Nutanix/Readme.md",
 		"/home/hthuwal/dev/notes/notes.sublime-project",
 		"/home/hthuwal/Competitive Programming/Programming/HackerRank/maximum-xor.cpp",
 		"/home/hthuwal/Competitive Programming/Programming/HackerRank/maximum-xor.py",
@@ -738,9 +749,7 @@
 		"/home/hthuwal/Competitive Programming/Programming/a.out",
 		"/home/hthuwal/Desktop/ghtorrent_dataset_tar.csv",
 		"/home/hthuwal/Downloads/factors.c",
-		"/home/hthuwal/Desktop/Ghtorrent/mysql-2017-09-01/commit_comments.csv",
-		"/home/hthuwal/Competitive Programming/Programming/atoms.ml",
-		"/home/hthuwal/Competitive Programming/Programming/atoms.py"
+		"/home/hthuwal/Desktop/Ghtorrent/mysql-2017-09-01/commit_comments.csv"
 	],
 	"find":
 	{
@@ -775,8 +784,40 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "Readme.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 60,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"git_savvy.repo_path": "/home/hthuwal/dev/iitd-placements-experience",
+							"markdonw_live_preview_last_run": 1538122483.36,
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -991,7 +1032,7 @@
 		[
 			[
 				"",
-				"~/dev/notes/notes.sublime-project"
+				"~/Competitive Programming/Programming/Competitive.sublime-project"
 			]
 		],
 		"width": 380.0
