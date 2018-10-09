@@ -18,7 +18,7 @@ ___
 
 #### Coding Questions
 
-**1. Vowels.**
+**1. Vowels.** 
     
 Given an input array of strings **A**. A valid string is a string that starts and ends at vowels. Given a series of queries where each query of two integers i and j. Find the number of valid strings in the array A[i:j].
 
@@ -44,9 +44,10 @@ ___
 
 **Question 1**
 
+- [Link to solution](https://github.com/hthuwal/competitive-programming/blob/master/HackerRank/vowels.py)
 - Started doing it with segment trees.
 - After implementing `create` function of the segment tree realized that it doesn't involves updates and can be done using difference arrays.
-- Used Python.
+- Used Python. Accepted. :smile:
 
 **Question 2**
 
