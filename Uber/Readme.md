@@ -45,7 +45,7 @@ Screenshots of Questions are present in the [coding-exam.pdf](coding-exam.pdf)
 **3. Uber Shuttle Problem**
 
 - Didn't had any time left to attempt.
-- On reading the question in the beginning, didn't know how to d it.
+- On reading the question in the beginning, didn't know how to do it.
 - The Question was similar to the one I left in Nutanix.
 
 ---
@@ -53,4 +53,4 @@ Screenshots of Questions are present in the [coding-exam.pdf](coding-exam.pdf)
 #### Takeaway
 
 - Always find the solution/approach to the problems that you weren't able to solve during a test. 
-- If I had learned how to solve the nutanix Question, I might have been able to atleast attempt the third Question. :disappointed:
+- If I had learned how to solve the Nutanix Question, I might have been able to at least attempt the third Question. :disappointed:
