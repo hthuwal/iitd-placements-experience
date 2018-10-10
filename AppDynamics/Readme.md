@@ -65,3 +65,10 @@ ___
     + TLE in 4-5 cases. (Similar to Question 2 :astonished:)
 - Seeing this Quickly Implemented the brute force in C++.
     + All Test Case Passed. :yum:
+
+---
+
+#### Takeaways
+
+- **Selecting Language to do the code is a pain. If you choose C++ You might get stuck debugging difficult code that could have been done easily in python. But python at the same time could give you TLE even with an algo that works fine in C++.**
+- So be agile and quick to realize the wrong choice of language/algo. 
