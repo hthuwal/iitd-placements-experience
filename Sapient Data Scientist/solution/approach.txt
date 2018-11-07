@@ -1,0 +1,25 @@
+### Folder Structure Assumption
+
+- Scripts and the corresponding data files are present in the same folder
+- Name of the files should be
+    + Product.csv
+    + Store.csv
+    + ProductStore.csv
+    + Saleslog.txt
+
+### Reading Data and Organizing
+
+- Used Pandas to read the csvs as data frames
+- Join using `df.merge`
+- Join the **Product** and **ProductStore** tables on column `Product_id`.
+- Join the resultant table with **Store** and **Saleslog** table on the common columns `Product_id` and `Store_id`.
+- Drop `Product_id`, `Store_id`, `Sale_date` columns. (Not needed).
+
+### Train and Test Splits
+
+- Using `sklearn.model_selection.train_test_split` to split the data into 80-20 training and test sets.
+
+### Model
+
+- Used sklearn MLPRegressor which is Multi-layer Perceptron regressor.
+- Single Hidden Layer of size 32, adam optimizer, relu as the activation unit, MSE Loss as the loss function, threshold for convergence 1e-4
