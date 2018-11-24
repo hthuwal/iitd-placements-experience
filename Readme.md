@@ -7,14 +7,14 @@ You might also want to have a look at a similar repo by [@dufferzafar](https://g
 |Adobe |
 |Alphonso |             
 |Amazon |               
-|AppDynamics |              
+|AppDynamics | :heavy_check_mark: |          
 |APT |              
 |Cohesity |             
 |Flipkart |             
-|Goldman Sachs |                
+|Goldman Sachs | :x: |               
 |Google | :x: |              
 |Harness |              
-|IBM Research Labs |                
+|IBM Research Labs | :x: |                
 |Indeed |               
 |JP Morgan |                
 |Microsoft |                
@@ -25,5 +25,5 @@ You might also want to have a look at a similar repo by [@dufferzafar](https://g
 |Samsung R&D Bangalore |                
 |Samsung Semiconductor |                
 |Sapient Data Scientist |               
-|Sprinkler |                
+|Sprinkler | :x: |
 |Uber | :x: |         
