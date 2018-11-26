@@ -6,7 +6,7 @@ You might also want to have a look at a similar repo by [@dufferzafar](https://g
 |---------|:-----------:|
 |Adobe |
 |Alphonso |             
-|Amazon |               
+|Amazon: SDE | :heavy_check_mark: |               
 |AppDynamics | :heavy_check_mark: |          
 |APT |              
 |Cohesity |             
@@ -17,7 +17,8 @@ You might also want to have a look at a similar repo by [@dufferzafar](https://g
 |IBM Research Labs | :x: |                
 |Indeed |               
 |JP Morgan |                
-|Microsoft |                
+|Microsoft: Software Engineer |                
+|Microsoft: Data Scientist | :x: |                
 |Nutanix |              
 |Oracle |               
 |Rubrik |               
