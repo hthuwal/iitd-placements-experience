@@ -17,7 +17,7 @@ You might also want to have a look at a similar repo by [@dufferzafar](https://g
 |IBM Research Labs | :x: |                
 |Indeed |               
 |JP Morgan |                
-|Microsoft: Software Engineer |                
+|Microsoft: Software Engineer | :x: Despite doing all the questions :cry: |
 |Microsoft: Data Scientist | :x: |                
 |Nutanix |              
 |Oracle |               

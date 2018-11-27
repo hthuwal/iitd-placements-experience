@@ -10,6 +10,8 @@
 
 ---
 
+### Choose the ML Profile as your preference only if you are sure that you'll clear the ML exam. If you choose ML Profile you won't be considered for the SE profile no matter how many questions you do. Realized this only after I wasn't shortlisted. This wasn't mentioned anywhere.
+
 ### Online Test
 
 - Platform: [Cocubes](https://www.cocubes.com)
