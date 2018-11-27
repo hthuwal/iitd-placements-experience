@@ -8,7 +8,7 @@ You might also want to have a look at a similar repo by [@dufferzafar](https://g
 |Alphonso |             
 |Amazon: SDE | :heavy_check_mark: |               
 |AppDynamics | :heavy_check_mark: |          
-|APT |              
+|APT | :heavy_check_mark: |              
 |Cohesity |             
 |Flipkart |             
 |Goldman Sachs | :x: |               
@@ -16,7 +16,7 @@ You might also want to have a look at a similar repo by [@dufferzafar](https://g
 |Harness |              
 |IBM Research Labs | :x: |                
 |Indeed |               
-|JP Morgan |                
+|JP Morgan | :x: |               
 |Microsoft: Software Engineer | :x: Despite doing all the questions :cry: |
 |Microsoft: Data Scientist | :x: |                
 |Nutanix |              
@@ -27,4 +27,5 @@ You might also want to have a look at a similar repo by [@dufferzafar](https://g
 |Samsung Semiconductor |                
 |Sapient Data Scientist |               
 |Sprinkler | :x: |
+|Tower Research | :x: |
 |Uber | :x: |         
