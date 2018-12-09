@@ -2,6 +2,12 @@
 
 You might also want to have a look at a similar repo by [@dufferzafar](https://github.com/dufferzafar/interview-prep/tree/master/experiences)        
 
+#### Interview Experience
+
+- [Rubrik](Rubrik/interview-experience.md): Rejected.
+
+#### Shortlists
+
 :heavy_check_mark: Shortlisted  
 :x: Not Shortlisted  
 :grey_question: Don't Know. Was selected before they announced their   shortlist.  
