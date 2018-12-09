@@ -77,6 +77,13 @@ Day 1: Slot 1
     + All the changes that I proposed required me to introduce `if else` inside the binary search logic.
     + Couldn't figure out the quick change. :disappointed: 
 - The quick change is to set `h = 1` whenever `n < 1`.
-
+- **He then asked the time complexity of this code**
+    + I said O(log(n))
+    + **He pointed out that the complexity must involve epsilon as the computation depends on how precise you want the answer to be**
+    + My answer:
+        * log(n) steps to reach the closest integer.
+        * -log(eps) steps to reach the required precision. (assuming eps < 1)
+        * So Time complexity: `log(n) - log(eps)`
+    + His answer: `log(n/eps)`. Which is same as mine :)
 
 ### Wasn't called for any subsequent rounds. 
