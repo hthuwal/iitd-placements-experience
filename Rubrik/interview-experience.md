@@ -57,15 +57,15 @@ Day 1: Slot 1
     {
         double l = 0;
         double h = n;
-        while(abs(l-h) <= eps)
+        while(fabs(h-l) >= eps)
         {
             double mid = l + (h-l)/2;
-            if(abs(mid*mid - n) < eps)
+            if(fabs(mid*mid - n) < eps)
                 return mid;
             else if(mid*mid < n)
                 l = mid;
             else
-                r = mid;
+                h = mid;
         }
         return l;
     } 
