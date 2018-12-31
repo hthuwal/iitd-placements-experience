@@ -71,7 +71,7 @@ Day 1: Slot 1
     } 
     ```
 - **At this point he pointed out that this code fails for the cases when n = 0.25 and asked can I explain why?**.
-    + I then realized the assumption that there is an implicit assumption in the code that *square root of a number is smaller than the number itself.*.
+    + I realized that there is an implicit assumption in the code that *square root of a number is smaller than the number.*.
     + This is why the code fails because this assumption is not true in the range [0, 1].
 - **He then asked me to make a quick change that solves this problem**
     + All the changes that I proposed required me to introduce `if else` inside the binary search logic.
