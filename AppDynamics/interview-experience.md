@@ -57,3 +57,22 @@ Day1: Slot 2
             ```
 
 #### Problem: Implement Dijsktra's Algorithm
+
+- I Started with basic assuemptions for Dijsktra's Algorithm. Like no negative edge weights.
+- Briefly Explained the algorithm.
+- Explained that I can use both c++ set and priority_queue to implement the heap required in the algorithm.
+    + Priority Queue: Internally implemented as heap.
+    + Set: BST
+- Continued to explain the code as I was writing it down.
+
+### Problem: Linked List
+
+- Write code for
+    - Union of LL
+    - Intersection of LL
+
+### Random Problem I dont remember
+
+- Wrote a recursive code.
+- Then a DP code (O(n^2)).
+- The interviewer suggested that O(nlog(n)) is also possible but I couldn't figure it out.

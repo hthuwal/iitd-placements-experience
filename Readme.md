@@ -20,8 +20,7 @@ You might also want to have a look at a similar repo by [@dufferzafar](https://g
 |Adobe | :x: |
 |Alphonso | :x: |            
 |Amazon SDE | :heavy_check_mark: |               
-|AppDynamics | :heavy_check_mark: |          
-|APT Portfolio Private Limited| :heavy_check_mark: |              
+|AppDynamics | :heavy_check_mark: |                    
 |Cohesity | :x: |            
 |Dell EMC | :heavy_check_mark: |
 |Flipkart (Data Scientist) | :heavy_check_mark: |             
